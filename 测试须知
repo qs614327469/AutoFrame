@@ -1,0 +1,5 @@
+需要修改的地方：
+    1.config.properties中的接口地址
+    2.com\qa\util\CopyFile.java中的result文件夹地址
+    3.com\qa\tests\DemoTest.java中的测试用例地址
+    4.测试用例及结果的地址。
