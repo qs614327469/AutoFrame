@@ -1,0 +1,9 @@
+# no .a files
+*.iml
+# ignore all files in the build/ directory 
+.idea/
+# ignore all files in the build/ directory
+*/target/
+target
+/target/
+/target
