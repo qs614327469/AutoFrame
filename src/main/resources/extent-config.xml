@@ -12,7 +12,7 @@
 
         <!-- protocol for script and stylesheets -->
         <!-- defaults to https -->
-        <protocol>https</protocol>
+        <protocol>http</protocol>
 
         <!-- title of the document -->
         <documentTitle>接口自动化测试报告</documentTitle>
